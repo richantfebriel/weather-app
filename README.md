@@ -1,7 +1,7 @@
 # weather-app
-just an website that can access the api of movie website, that i used from https://openweathermap.org/
+just a website that can access the api of movie website, that i used from https://openweathermap.org/
 
-here i learn to fetch data from javascript
+here i learn to fetch data from javascript and dom
 
 try here : https://richantfebriel.github.io/weather-app/
 
